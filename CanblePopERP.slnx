@@ -1,3 +1,10 @@
 <Solution>
-  <Project Path="CanblePopERP/CanblePop.Web.csproj" />
+  <Folder Name="/.gitignore/" />
+  <Folder Name="/database/" />
+  <Folder Name="/docs/" />
+  <Folder Name="/LICENSE/" />
+  <Folder Name="/README.md/" />
+  <Folder Name="/src/">
+    <Project Path="CanblePopERP/CanblePop.Web.csproj" />
+  </Folder>
 </Solution>
